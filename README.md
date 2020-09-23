@@ -30,3 +30,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make sure that the script acts the same on each sheet. The joy of VBA is to take the tediousness out of repetitive task and run over and over again with a click of the button.
 
+### Submission Includes
+1. Screenshots for all years in Multi Year Stock Data spreadsheet (2041, 2015, 2016)
+
+2. Script for multi_year_stock_data
+
+3. Script for alphabetical_testing
+
